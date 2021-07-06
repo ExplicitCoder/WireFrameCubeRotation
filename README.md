@@ -4,8 +4,8 @@ Based on PyGame, this wireframe cube (truncated at one corner) rotates in any 3d
 pip3 install pygame
 
 # User Controls:
-Press the following keys for axis specific rotations.
-X axis: Q,W
-Y axis: A,S
-Z axis: Z,X
+Press the following keys for axis specific rotations. \n
+X axis: Q,W \n
+Y axis: A,S \n
+Z axis: Z,X \n
 User can also press two or three keys together: for example W,A,X together.
